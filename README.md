@@ -14,6 +14,6 @@ ResearchMind is a sequential multi-agent orchestrator designed to automate deep 
 | Component | Technologies Used |
 | :--- | :--- |
 | **Core Frameworks** | Python, LangChain, LangGraph |
-| **Frontend UI** | Streamlit, HTML, CSS |
+| **Frontend UI** | Streamlit |
 | **Data & Extraction** | Web Scraping APIs, External Search Tools |
 
